@@ -1,4 +1,4 @@
-## Heart Disease Prediction Using Machine Learning Techniques like 
+## Heart Disease Prediction Using Machine Learning Techniques : 
 ### Logistic Regression, 
 ### KNN, 
 ### Decision Tree, 
