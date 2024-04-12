@@ -12,4 +12,6 @@
 ### 4. Click on Predict.
 
 ## Screenshots
+![Screenshot (365)](https://github.com/BedantaGautom/Heart-Disease-Prediction-Using-Machine-Learning-Techniques/assets/85272308/d2fa3152-3121-4fca-971d-ceddbe3ea8d4)
+
 
