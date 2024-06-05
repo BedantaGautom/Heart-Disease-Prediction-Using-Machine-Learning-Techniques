@@ -5,9 +5,13 @@
 ### https://www.kaggle.com/datasets/jillanisofttech/heart-disease-prediction-using-differenttechniques
 ## To run the code :
 ### 1. Install the requirements.txt
-`pip install -r requirements.txt`
+```
+pip install -r requirements.txt
+```
 ### 2. Run the streamlit app.
-`streamlit run myapp.py`
+```
+streamlit run myapp.py
+```
 ### 3. Type the values for the attributes.
 ### 4. Click on Predict.
 
